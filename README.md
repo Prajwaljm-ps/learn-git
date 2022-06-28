@@ -98,17 +98,21 @@ How to create a Docker file and run it
 
 27-06-2022 - evening meet
 
+
+Task 1 - Neha, Talha, Shashi, Anjali
 CI/CD setup
   Gitlab Runner setup
   Gitlab yaml file creation
   Runner should trigger the pipeline for the code commit
   sonar qube
 
+Task 2 - Amar, Divyanshu, Rahul
 Containerize the jar using Docker File
 Orchestrate the containerization using K8s
 Argo CD deployment
 Helm chart
 
+Task 3 - Bhoomika, Prajwal, Shri
 Logs Tracing
   Zipkin & Sleuth
 Promethus -  Monitoring using Grafana dashboard
